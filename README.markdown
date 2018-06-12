@@ -9,3 +9,5 @@ Test Build Trigger
 Test Build Trigger
 
 Testing Poll SCM on Jenkins
+
+Testing Poll Trigger
